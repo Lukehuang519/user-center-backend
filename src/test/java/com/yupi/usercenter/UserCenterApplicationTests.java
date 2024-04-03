@@ -18,7 +18,7 @@ import java.security.NoSuchAlgorithmException;
 @SpringBootTest
 class UserCenterApplicationTests {
 
-    // https://yupi./
+    // https://yupi.i/
 
     @Test
     void testDigest() throws NoSuchAlgorithmException {
